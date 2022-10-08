@@ -1,2 +1,2 @@
-# plotly_dashboards
+# Plotly Dashboards
 Repository to hold Plotly Dashboards
